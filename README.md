@@ -1,4 +1,4 @@
-Yo! This is a Bootstrap  boilerplate template. It uses the 5.1 CDN and only uses 1 bootstap link in the head tag & 1 script tag at the end of the body tag.
+Yo! This is a Bootstrap  boilerplate template. It uses the 4.5.3 CDN and only uses 1 bootstap link in the head tag & 1 script tag at the end of the body tag.
 Steps to clone repo
 (navigate to your project folder in your terminal)
   git clone git@github.com/heyemelia/bootstrap-boilerplate.git
